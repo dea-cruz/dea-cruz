@@ -1,12 +1,13 @@
-Hi, I'm Andréia Cruz 👋
+# Hi, I'm Andreia Cruz 👋
 
-Engineer · IIoT · Data Science
-Belo Horizonte, Brazil · English fluent · Open to global opportunities
+### Automation & IIoT Engineer · Data Science Enthusiast
 
-📌 Projects
-[Affordable Home London](https://github.com/dea-cruz/AFFORDABLE_HOME_LONDON)
-Recommendation system for affordable housing in London using Gaussian AHP, open datasets and geospatial visualization.
-Python · Flask · Vue.js · Pandas · Google Maps API
+🌐 Passionate about connecting industrial automation with data-driven intelligence. I enjoy building solutions that integrate IIoT, analytics, and scalable architectures to solve real-world problems.
 
-🛠️ Skills
+## 📌 Featured Project
+https://github.com/dea-cruz/AFFORDABLE_HOME_LONDON
+A recommendation system for identifying affordable housing in London using Gaussian AHP, open datasets, and geospatial visualization.
+Tech stack: Python · Flask · Vue.js · Pandas · Google Maps API
+
+## 🛠️ Skills & Technologies
 Python · SQL · Machine Learning · Databricks · AWS · Grafana · LoRaWAM

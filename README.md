@@ -17,6 +17,12 @@ Automated pipeline built with LangGraph that runs descriptive statistics, Cp/Cpk
 Recommendation system for identifying affordable housing in London using Gaussian AHP, open datasets, and geospatial visualization.  
 **Tech stack:** Python · Flask · Vue.js · Pandas · Google Maps API
 
+### 💳 [credit-risk-default-prediction](https://github.com/dea-cruz/credit-risk-default-prediction)
+Credit default prediction on the Give Me Some Credit dataset (150k borrowers, 6.7% default rate), built on Databricks.
+End-to-end pipeline covering EDA and data quality checks, a logistic regression baseline, a LightGBM model evaluated with ROC-AUC and PR-AUC, and SHAP-based explanations translated into business decisions. *(in progress)*
+
+**Tech stack:** Python · Databricks · pandas · scikit-learn · LightGBM · SHAP · matplotlib · seaborn
+
 ---
 
 ## 🛠️ Skills & Technologies
